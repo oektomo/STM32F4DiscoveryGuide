@@ -11,7 +11,10 @@ directory settings for source code and header file, library source code.
 
 ![Toolchain Configuration](docs/4_Toolchain_Configuration.png)  
 Remember to download the right Toolchain, extract it and paste the path here.  
-Wi need to write something about the toolchain.  
+We need to write something about the toolchain.  
+to configure and make sure about toolchain, see:
+Window --> Preferences --> C/C++ --> Build --> Global Tools Paths
+see if the Default toolchain and the Toolchain folder are set correctly  
 
 ![Check HSE VALUE](docs/5_Check_HSE_VALUE.png)  
 The HSE_Value are asked in header file in startup source code file. here HSE_VALUE are written as an define in compiler option (-D)

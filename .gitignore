@@ -4,4 +4,5 @@ system/
 .settings
 .cproject
 .project
+*.swp
 
